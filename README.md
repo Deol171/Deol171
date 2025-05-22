@@ -42,3 +42,19 @@ Conecte-se comigo!
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=ffffff&color=%231BA0D7) | Cisco NetAcademy Introduction to Networks |
 | ![CCNA ITN](https://img.shields.io/badge/_-CISCO_NetAcademy_Routing_and_Switching-t?style=flat&logo=Cisco&logoColor=FFFFFF&color=%231BA0D7) | Cisco NetAcademy Routing and Switching |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=ffffff&color=%23FF9900) | AWS Academy Cloud Foundations |
+
+---
+
+## Projetos
+
+-Casa inteligente (Arduino)
+
+-Monitoramento de rede (Zabbix)
+
+-Infraestrutura em nuvem, AWS e Azure (Aether Cloud)
+
+-Cabeamento estruturado (Ambiente Simulado)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deol171&theme=algolia&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats">
+</p>
