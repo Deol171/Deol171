@@ -23,7 +23,7 @@ Conecte-se comigo!
 
 ## Tech Stack 👨🏼‍💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,debian,nginx,grafana,debian"> 
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,debian,nginx,grafana"> 
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white,">
