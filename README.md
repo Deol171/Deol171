@@ -39,4 +39,5 @@ Conecte-se comigo!
 | Certificação | Nome |
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=ffffff&color=%231BA0D7) | Cisco NetAcademy Introduction to Networks |
+| ![CCNA ITN](https://img.shields.io/badge/_-CISCO_NetAcademy_Routing_and_Switching-t?style=flat&logo=Cisco&logoColor=FFFFFF&color=%231BA0D7) | Cisco NetAcademy Routing and Switching |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=ffffff&color=%23FF9900) | AWS Academy Cloud Foundations |
