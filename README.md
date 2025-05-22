@@ -31,3 +31,12 @@ Conecte-se comigo!
 <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
 <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff">
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white">
+</p>
+
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=ffffff&color=%231BA0D7) | Cisco NetAcademy Introduction to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=ffffff&color=%23FF9900) | AWS Academy Cloud Foundations |
