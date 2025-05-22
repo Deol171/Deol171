@@ -31,6 +31,7 @@ Conecte-se comigo!
 <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
 <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff">
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white">
+<img src="https://img.shields.io/badge/_-PFsense-ta?style=flat&logo=pfsense&logoColor=FFFFFF&color=%23212121">
 </p>
 
 
